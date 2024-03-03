@@ -6,12 +6,9 @@ Getting Started
 
 Follow these steps to run the application on your local machine.
 
-Prerequisites
-
+Prerequisites                                              
 Make sure you have Node.js and npm installed on your system.
 
-Node.js
-npm
 Create an account on Giphy Developers and generate an API key by creating a new app.
 
 Create a .env file in the root of the project and add your Giphy API key.
@@ -31,12 +28,12 @@ Install the required dependencies.
 
 Commands:
 
-npm install
-npm install axios
-Run the Application
-Start the application with the following command:
+npm install                
+npm install axios                    
+Run the Application                  
+Start the application with the following command:          
 
-npm start
+npm start                              
 The application will be accessible at http://localhost:3000 in your web browser.
 
 Usage
